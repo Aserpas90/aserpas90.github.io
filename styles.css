@@ -1,16 +1,16 @@
 body {
-  background-color: DarkOliveGreen;
+  background-color: cornsilk;
 }
 
 h1 {
-  color: beige;
+  color: darkslategray;
   text-align: center;
   font-family: Fantasy, Papyrus, sans-serif;
   font-size: 40px;
 }
 
 p {
-  color: beige;
+  color: darkslategray;
   font-family: monaco;
   font-size: 20px;
   text-align: center;
