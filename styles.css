@@ -1,16 +1,16 @@
 body {
-  background-color: cornsilk;
+  background-color: Black;
 }
 
 h1 {
-  color: darkslategray;
+  color: lightgray;
   text-align: center;
   font-family: monaco, sans-serif;
   font-size: 40px;
 }
 
 p {
-  color: darkslategray;
+  color: lightgray;
   font-family: monaco;
   font-size: 20px;
   text-align: center;
