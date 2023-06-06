@@ -6,28 +6,28 @@ body {
 h1 {
   color: #D3D3D3;
   text-align: center;
-  font-family: "Lucida Handwriting", monaco, sans-serif;
+  font-family: "Lucida Handwriting", "Lucida Console", sans-serif;
   font-size: 45px;
 }
 
 h2 {
   color: #D3D3D3;
   text-align: center;
-  font-family: monaco, sans-serif;
+  font-family: "Lucida Console", monaco;
   font-size: 30px;
   }
 
 h3 {
   color: #D3D3D3;
   text-align: center;
-  font-family: monaco, sans-serif;
+  font-family: "Lucida Console", monaco, sans-serif;
   font-size: 30px;
   }
 
 h4 {
   color: #D3D3D3;
   text-align: center;
-  font-family: monaco, sans-serif;
+  font-family: "Lucida Console", monaco, sans-serif;
   font-size: 30px;
   }
 
@@ -35,7 +35,7 @@ h4 {
 h5 {
   color: #D3D3D3;
   text-align: center;
-  font-family: monaco, sans-serif;
+  font-family: "Lucida Console", monaco, sans-serif;
   font-size: 30px;
   }
 
