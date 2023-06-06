@@ -49,6 +49,8 @@ table {
 
 p {
   color: #D3D3D3;
+  margin-left: auto;
+  margin-right: auto;
   font-family: monaco;
   font-size: 20px;
   text-align: center;
