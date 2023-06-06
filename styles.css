@@ -11,7 +11,10 @@ h1 {
 
 table {
   width: 100%;
-  height: auto;
+}
+
+th {
+  height: 70px;
 }
 
 p {
