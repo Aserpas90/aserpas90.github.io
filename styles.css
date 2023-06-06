@@ -39,8 +39,9 @@ h5 {
   }
 
 table {
-  width: 100%;
-}
+  width: 80%;
+  height: 100px
+    }
 
 th {
   height: 70px;
