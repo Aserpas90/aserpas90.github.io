@@ -53,8 +53,7 @@ table.center {
     display: block;
     justify-content: center;
     align-items: center;
-    height: 200px;
-    border: 7px solid white;
+    height: 100px;
   }
 
 p {
