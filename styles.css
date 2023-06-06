@@ -39,6 +39,12 @@ h5 {
   font-size: 30px;
   }
 
+.td img {
+  width: auto;
+  height: auto:
+}
+  
+
 p {
   color: #D3D3D3;
   display: block;
