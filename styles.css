@@ -39,14 +39,6 @@ h5 {
   font-size: 30px;
   }
 
-table {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   width: 80%;
-   height: 100px
-  }
-
 p {
   color: #D3D3D3;
   display: block;
