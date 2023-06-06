@@ -10,7 +10,8 @@ h1 {
   font-size: 45px;
 }
 
-.container2 {
+container2 {
+  text-align: center;
   width: 80%;
   height: auto;
 }
